@@ -1,0 +1,65 @@
+# Unity Ads - Authorized Sellers
+# Game ID: 800396537 - Anime Domain +
+# Generated for: darking101.github.io
+
+unity.com, 800396537, DIRECT
+
+# --- Authorized Resellers (Unity Mediation Partners) ---
+adcolony.com, 84548, RESELLER, 1ad675c9de6b5176
+adform.com, 1136, RESELLER
+admixer.co.kr, 163, RESELLER
+adtech.com, 12094, RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appads.in, 106246, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11820, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17779, RESELLER
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+appnexus.com, 6849, RESELLER
+bid-matrix.com, f2c71aa45ea149366, RESELLER
+bigo.sg, adidz3dyfp, RESELLER
+bluexad.ai, 199641880574683328, RESELLER
+boldwin.com, 3013, RESELLER, f1716737d0ba1c5c
+contextweb.com, 562140, RESELLER, 89ff185a4c4b857f
+display.io, 500548, RESELLER
+emtv.com, 1, RESELLER
+freewheel.tv, 1, RESELLER
+freewheel.tv, 920593, RESELLER
+fyber.com, 41, RESELLER
+google.com, pub-9562304661020928, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1828, RESELLER
+inmobi.com, 83ac30bbb9f442e899e12a2ab28a7ad2, RESELLER, 83e75a7ae333ca9d
+inneractive.com, 1, RESELLER
+ironsrc.com, 1, RESELLER
+ironsource.com, 1, RESELLER
+liftoff.io, 60405, RESELLER
+loopme.com, 11278, RESELLER, 6c8d5f95897a5a3b
+magnite.com, 12431, RESELLER, 0bfd66d529a55807
+media.net, 8CU7YK82Y, RESELLER
+mintegral.com, 10034, RESELLER
+mobfox.com, 300822, RESELLER, 1623122f21a296e4
+mopub.com, 157603, RESELLER, a29b96b86a1f7e22
+nativex.com, 6, RESELLER
+openx.com, 540871654, RESELLER, 6a698e965929f8f3
+openx.com, 540879900, RESELLER, 6a698e965929f8f3
+outbrain.com, 00c31a2c3ae1d06b7c2a373a3e5cec40a0, RESELLER
+pangle.io, 1608, RESELLER
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157654, RESELLER, 5d62403b186f2ace
+rhythmone.com, 4183296645, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23006, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1752, RESELLER
+smartadserver.com, 4261, RESELLER
+sovrn.com, 273816, RESELLER, fafdf38b16bf6b2b
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 270372, RESELLER, 7842df1d2fe2db34
+supersonicads.com, 1, RESELLER
+tapjoy.com, 1, RESELLER
+triplelift.com, 2842, RESELLER, 6c33edb13117fd86
+unrulymedia.com, 1, RESELLER
+verizonmedia.com, 59360, RESELLER, e1a5b5b6e3255540
+xandr.com, 11820, RESELLER, f5ab79cb980f11d1
+yandex.com, 42509, RESELLER
